@@ -104,5 +104,6 @@ export default function OrbitScene() {
 {/*Y si saben un poco de react, entonces sabran que lo pueden importar y 
 mostrarlo en su aplicación de esta manera
 <OrbitScene />*/}
+```
 
 ## Simulación 3D que realice:
