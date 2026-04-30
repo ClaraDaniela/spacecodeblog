@@ -60,7 +60,9 @@ simular_enfriamiento(10)
 ## Computación Cuántica: El silencio del cero
 
 La física cuántica es, en esencia, el manual de instrucciones del universo a escalas increíblemente pequeñas: átomos, electrones y fotones. Mientras que la física clásica (la de Newton) describe bien cómo cae una manzana o cómo se mueve un coche, la física cuántica rige el mundo de lo minúsculo, donde las reglas cambian por completo.
-Los pilares de la Física Cuántica
+
+**Los pilares de la Física Cuántica**
+
 Para entender las computadoras cuánticas, primero hay que aceptar tres fenómenos que parecen sacados de la ciencia ficción:
 
 *Superposición*: En el mundo clásico, una moneda es cara o es cruz. En el mundo cuántico, una partícula puede estar en una "mezcla" de todos sus estados posibles al mismo tiempo hasta que alguien la mide.
