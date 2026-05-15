@@ -12,7 +12,7 @@ Durante siglos, la humanidad creyó que el Universo era un mecanismo de relojer�
 
 ---
 
-## 1. ¿Qué es la Teoría del Caos? 
+## ¿Qué es la Teoría del Caos? 
 
 Imagina que estás en la cima de una montaña de arena y sueltas una pelota. Si la sueltas un milímetro más a la izquierda, es posible que termine en un valle totalmente distinto. 
 
@@ -26,7 +26,7 @@ Kynes sabía que Arrakis era un **sistema dinámico**. No necesitaba transformar
 
 ---
 
-## 3. El Problema de los Tres Cuerpos: Cuando la gravedad se vuelve loca
+## El Problema de los Tres Cuerpos: Cuando la gravedad se vuelve loca
 
 El ejemplo más claro de caos en astronomía es el sistema **Sol-Tierra-Luna**. 
 *   Predecir el movimiento de **dos** cuerpos es sencillo y estable.
@@ -38,7 +38,7 @@ No hay una fórmula matemática que nos diga dónde estarán exactamente estos t
 
 ---
 
-## 4. Modelando el Caos en Código
+## Modelando el Caos en Código
 
 Para demostrar este concepto, podemos programar una simulación. Vamos a lanzar a la "Luna" dos veces. En la segunda vez (Escenario B), la moveremos apenas **0.0001 unidades** (un suspiro). 
 
@@ -80,12 +80,19 @@ res_b = odeint(n_cuerpos, inicio_b, t, args=(masas,))
 plt.figure(figsize=(10, 5))
 plt.plot(res_a[:, 4], res_a[:, 5], 'b', label='Trayectoria A')
 plt.plot(res_b[:, 4], res_b[:, 5], 'r--', label='Trayectoria B (Variación mínima)')
-plt.title("Sensibilidad a las Condiciones Iniciales: La Luna de Kynes")
+plt.title("Sensibilidad a las Condiciones Iniciales")
 plt.legend(); plt.show()
 ```
 
 ## ¿Qué nos enseña este gráfico?
+
+![Error](@@baseUrl@@/assets/images/posts/dinamicos1.png)
+
 Al principio, ambas líneas son una sola. Pero en un "punto crítico", la línea roja se separa de la azul. Ese momento es el caos en acción. Una diferencia que no podías ni ver al principio terminó creando un destino totalmente diferente para la Luna.
+
+Aca cambie la variable por del movimiento de la luna de 0.0001 a 0.1 para que se vea mejor la diferencia.
+
+![Error](@@baseUrl@@/assets/images/posts/dinamicos2.png)
 
 ## Si supieramos todas las condiciones iniciales, ¿podríamos predecir el futuro?
 
