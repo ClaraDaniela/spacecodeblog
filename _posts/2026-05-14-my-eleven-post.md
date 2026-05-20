@@ -6,8 +6,6 @@ modified_date: '2026-05-15'
 image: /assets/images/posts/caos.jfif
 ---
 
-# El Universo no es un Reloj: Caos, Dune y el Problema de los Tres Cuerpos
-
 Durante siglos, la humanidad creyó que el Universo era un mecanismo de relojería perfecto. Se pensaba que, si conocíamos la posición de cada átomo, podríamos predecir el futuro para siempre. Sin embargo, la matemática moderna nos dice lo contrario: el orden absoluto es una ilusión.
 
 ---

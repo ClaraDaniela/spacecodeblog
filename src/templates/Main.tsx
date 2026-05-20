@@ -70,6 +70,9 @@ const Main = (props: IMainProps) => {
                   GitHub
                 </a>
               </li>
+              <li className="mr-6 hover:text-cyan-400 transition">
+                <Link href="/books/">Lista de libros</Link>
+              </li>
             </Navbar>
           </div>
 
