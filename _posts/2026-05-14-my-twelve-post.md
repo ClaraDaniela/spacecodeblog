@@ -16,15 +16,15 @@ La idea suena fantástica, pero cuando vas a la teoria, te das cuenta de que la 
 
 Para entenderlo, primero hay que entender el calor. El calor no es una sustancia; es simplemente movimiento. Las partículas que forman tu cuerpo, el aire o una estrella se están moviendo, vibrando y chocando constantemente. A mayor velocidad, más temperatura.
 
-El **Cero Absoluto** ($0\text{ Kelvin}$ o $-273.15^\circ\text{C}$) es el punto teórico donde ese movimiento se detiene por completo. Es la ausencia total de energía térmica. No existe nada más frío porque no podés moverte "menos que quieto" a menos que venga tu mamá y te amenace con darte un chancletazo.
+El **Cero Absoluto** 0 Kelvin (o -273.15°C) es el punto teórico donde ese movimiento se detiene por completo. Es la ausencia total de energía térmica. No existe nada más frío porque no podés moverte "menos que quieto" a menos que venga tu mamá y te amenace con darte un chancletazo.
 
 ---
 
 ## El problema con el famoso astronauta congelado
 
-En la ciencia ficción, congelar a alguien parece fácil, pero en la realidad nos enfrentamos a la **Tercera Ley de la Termodinámica** de la cual ya hable en otro posteo. Esta ley establece que es físicamente imposible alcanzar el cero absoluto en un número finito de pasos. Te puedes acercar muchísimo (los laboratorios modernos han llegado a millonésimas de grado por encima del cero), pero nunca tocarlo.
+En la ciencia ficción, congelar a alguien parece fácil, pero en la realidad nos enfrentamos a la **Tercera Ley de la Termodinámica** de la cual ya hable en otro posteo. Esta ley establece que es físicamente imposible alcanzar el cero absoluto en un número finito de pasos. Te podes acercar mucho (los laboratorios modernos han llegado a millonésimas de grado por encima del cero), pero nunca tocarlo.
 
-Además, el cuerpo humano es mayormente agua. Si congelas las células de un astronauta de forma convencional, el agua se expande y forma cristales de hielo puntiagudos que destruyen las membranas celulares desde adentro. Al "descongelar" al tripulante, sus órganos estarían completamente destruidos a nivel molecular. Sería como intentar rearmar un espejo roto, y no termina ahí, si se congela un brazo mas rapido que las demas partes de tu cuerpo, se quiebra, ya estaria dañado, por eso tiene que ser de manera uniforme.
+Además, el cuerpo humano es mayormente agua. Si congelas las células de un astronauta de forma convencional, el agua se expande y forma cristales de hielo puntiagudos que destruyen las membranas celulares desde adentro. Al "descongelar" al tripulante, sus órganos estarían completamente destruidos a nivel molecular. Sería como intentar rearmar un espejo roto, y no termina ahí, si se congela un brazo mas rápido que las demás partes de tu cuerpo, se quiebra, ya estaría dañado, por eso tiene que ser de manera uniforme.
 
 Para evitar esto, la ciencia real investiga la **vitrificación** (enfriar tan rápido que el agua se vuelve una especie de vidrio líquido sin formar cristales dañinos), pero enfriar y recalentar un organismo complejo sin generar fallos en el sistema sigue siendo un desafío enorme.
 
