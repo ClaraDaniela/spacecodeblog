@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'SpaceCodeBlog',
-  title: 'Astronomía con código',
+  site_name: 'PreClaraBlog',
+  title: 'Un blog cualquiera',
   description:
-    'Aprendé sobre astronomía con código, o viceversa.',
+    'Ciencia, y cosas interesantes (para mi), explicadas con algo de código',
   url: 'https://example.com',
   locale: 'en',
-  author: 'Anonimo',
+  author: 'Yolamejor',
   pagination_size: 5,
 };
